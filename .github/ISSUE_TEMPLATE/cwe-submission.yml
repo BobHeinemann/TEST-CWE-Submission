@@ -31,6 +31,5 @@ body:
       description: "Please check this box if you agree to the terms and conditions"
       options:
         -label: ATTACKS
-         required: TRUE
     validations:
       required: true  
