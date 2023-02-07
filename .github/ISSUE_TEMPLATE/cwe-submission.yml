@@ -1,6 +1,6 @@
 name: "💡 CWE Submission"
 description: Submit a proposal for a new weakness within CWE.
-title: "💡 [NEW Submission] - "{{ cwe_name }}
+title: "💡 [NEW Submission] - {{ cwe_name }}"
 labels: [
   "01-Received"
 ]
