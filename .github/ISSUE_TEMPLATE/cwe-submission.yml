@@ -19,13 +19,19 @@ body:
                     Each summary part is only expressed with individual words or brief phrases; the extended description can be more\n
                     comprehensive in its explanation.\n\n
                     Use of CWE-specific vocabulary is preferred but not required.\n\n
-                    
-                    The summary (and name) should avoid focusing on:\n
-                    1. the attack\n
-                    2. the absence of a mitigation\n
-                    3. the technical impact.\n\n
-                    
-                    If a summary has a strong reliance on this information, this may be an indicator that the entry is not weakness-focused."
       placeholder: "Proposed CWE Summary"
     validations:
       required: true
+  - type: section
+    text: |
+      ##Please verify that the summary and name satisfy the following conditions before submitting your proposal.
+body:
+  - type: checkbox
+    id: checkbox_example
+    attributes:
+      label: "Agree to terms and conditions"
+      description: "Please check this box if you agree to the terms and conditions"
+    validations:
+      required: true      
+      
+   
