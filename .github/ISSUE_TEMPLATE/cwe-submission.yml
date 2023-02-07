@@ -25,7 +25,6 @@ body:
   - type: section
     text: |
       ##Please verify that the summary and name satisfy the following conditions before submitting your proposal.
-body:
   - type: checkbox
     id: checkbox_example
     attributes:
