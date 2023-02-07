@@ -24,9 +24,6 @@ body:
       placeholder: "Proposed CWE Summary"
     validations:
       required: true
-  - type: checkboxes
-    attributes:
-      label: "Agree to terms and conditions"
-      description: "Please check this box if you agree to the terms and conditions"
-      options:
-        -label: [ATTACKS]
+- type: markdown
+  attributes:
+    value: "Thanks for completing our form!"
