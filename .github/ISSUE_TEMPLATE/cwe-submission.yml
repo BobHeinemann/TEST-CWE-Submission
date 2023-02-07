@@ -29,5 +29,4 @@ body:
       label: "Agree to terms and conditions"
       description: "Please check this box if you agree to the terms and conditions"
       options:
-        -label: ATTACKS
-        -label: asdasd
+        -label: [ATTACKS]
