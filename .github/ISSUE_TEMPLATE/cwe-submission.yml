@@ -31,3 +31,4 @@ body:
         - label: Does the summary and name avoid focusing on an attack?
         - label: Does the summary and name avoid focusing the absence of a mitigation?
         - label: Does the summary and name avoid focusing the technical impact?
+        required: true
