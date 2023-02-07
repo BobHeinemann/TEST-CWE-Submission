@@ -23,6 +23,8 @@ body:
     validations:
       required: true
   - type: checkboxes
+    validations:
+      required: true
     id: cwe_quality_chkboxes
     attributes:
       label: "Verify that your submission adheres to the below guidelines."
@@ -31,6 +33,5 @@ body:
         - label: "Does the summary and name avoid focusing on an attack?"
         - label: Does the summary and name avoid focusing the absence of a mitigation?
         - label: Does the summary and name avoid focusing the technical impact?
-    validations:
-      required: true
+
 
