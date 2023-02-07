@@ -46,4 +46,3 @@ body:
         - label: macOS
         - label: Windows
         - label: Linux
-        required: true
