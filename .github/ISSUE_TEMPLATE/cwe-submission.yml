@@ -37,3 +37,10 @@ body:
   - type: markdown
     attributes:
       value: "- [ ] Does the summary and name avoid focusing the technical impact?"
+  - type: checkboxes
+    attributes:
+      label: Code of Conduct
+      description: The Code of Conduct helps create a safe space for everyone. We require that everyone agrees to it.
+    options:
+      - label: I agree to follow this project's [Code of Conduct](link/to/coc)
+        required: true
