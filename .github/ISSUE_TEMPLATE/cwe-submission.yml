@@ -6,7 +6,7 @@ labels: [
 ]
 body:
   - type: textarea
-    id: summary
+    id: cwe_summary
     attributes:
       label: "Summary"
       description: "The summary consists of only one or two sentences that describe the weakness itself, i.e. the mistake that is made.\n
