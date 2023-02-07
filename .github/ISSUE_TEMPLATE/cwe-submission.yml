@@ -1,6 +1,6 @@
 name: "💡 CWE Submission"
 description: "The name should focuses on the weakness/mistake - not the attack. Minimize use of ambiguous words to keep the name short.\n"
-title: "💡 [NEW Submission] - NAME"
+title: "💡 [NEW Submission] - <name>"
 labels: [
   "01-Received"
 ]
