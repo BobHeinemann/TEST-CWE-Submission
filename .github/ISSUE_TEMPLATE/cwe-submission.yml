@@ -2,7 +2,7 @@ name: "💡 CWE Submission"
 description: Submit a proposal for a new weakness within CWE.
 title: "💡 [NEW Submission] - <title>"
 labels: [
-  "question"
+  "01-Received"
 ]
 body:
   - type: input
