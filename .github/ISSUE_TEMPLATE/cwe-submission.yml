@@ -1,7 +1,6 @@
 name: "💡 CWE Submission"
-description: "Ideally, the name focuses on the weakness/mistake - not the attack. Minimize use of ambiguous words to keep the name short.\n
-              Where feasible, use terminology as defined in the CWE glossary and/or vulnerability theory documents.\n
-title: "💡 [NEW Submission] - NAME_HERE"
+description: "The name should focuses on the weakness/mistake - not the attack. Minimize use of ambiguous words to keep the name short.\n"
+title: "💡 [NEW Submission] - NAME"
 labels: [
   "01-Received"
 ]
