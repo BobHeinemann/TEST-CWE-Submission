@@ -1,14 +1,14 @@
 name: "💡 CWE Submission"
 description: Submit a proposal for a new weakness within CWE.
-title: "💡 [NEW Submission] - {{ title }}"
+title: "💡 [NEW Submission] - {{ cwe_name }}"
 labels: [
   "01-Received"
 ]
 body:
   - type: input
-    id: title
+    id: cwe_name
     attributes:
-      label: "Title"
+      label: "Name"
       description: "Ideally, the name focuses on the weakness/mistake - not the attack. Minimize use of ambiguous words to keep the name short.\n
                     Where feasible, use terminology as defined in the CWE glossary and/or vulnerability theory documents.\n
                     The name should include:\n 
