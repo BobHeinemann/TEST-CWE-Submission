@@ -27,6 +27,6 @@ body:
   - type: markdown
     attributes:
       value: "- [ ] Mercury\n
-      - [x] Venus"\n
-      - [x] Earth (Orbit/Moon)"\n
+      - [x] Venus\n
+      - [x] Earth (Orbit/Moon)\n
       - [x] Mars"
