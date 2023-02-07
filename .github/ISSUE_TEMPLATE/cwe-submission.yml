@@ -17,7 +17,7 @@ body:
       4. the affected technology (if relevant)\n\n
       
       Each summary part is only expressed with individual words or brief phrases; the extended description can be more\n
-      comprehensive in its explanation. Use of CWE-specific vocabulary is preferred but not required.\n\n
+      comprehensive in its explanation. Use of CWE-specific vocabulary is preferred but not required.\n\n"
             
       placeholder: "Proposed CWE Summary"
     validations:
