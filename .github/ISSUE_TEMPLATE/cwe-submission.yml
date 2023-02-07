@@ -1,6 +1,6 @@
-name: "💡 Feature Request"
-description: Create a new ticket for a new feature request
-title: "💡 [REQUEST] - <title>"
+name: "💡 CWE Submission"
+description: Submit a proposal for a new weakness within CWE.
+title: "💡 [NEW Submission] - <title>"
 labels: [
   "question"
 ]
