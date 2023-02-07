@@ -4,7 +4,6 @@ title: "💡 [NEW Submission] - {{ cwe_name }}"
 labels: [
   "01-Received"
 ]
-readonly: true
 body:
   - type: input
     id: cwe_name
