@@ -8,7 +8,7 @@ body:
   - type: textarea
     id: cwe_summary
     attributes:
-      label: "Summary"
+      label: "## Summary"
       description: "The summary consists of only one or two sentences that describe the weakness itself, i.e. the mistake that is made. Often, the summary will describe what the developer/designer is attempting to do.\n\n
       Critical parts of the summary include:\n
       1. the intended behavior of the code\n
@@ -17,9 +17,8 @@ body:
       4. the affected technology (if relevant)\n\n
       
       Each summary part is only expressed with individual words or brief phrases; the extended description can be more\n
-      comprehensive in its explanation.\n\n
-      Use of CWE-specific vocabulary is preferred but not required.\n\n"
-      
+      comprehensive in its explanation. Use of CWE-specific vocabulary is preferred but not required.\n\n
+            
       placeholder: "Proposed CWE Summary"
     validations:
       required: true
