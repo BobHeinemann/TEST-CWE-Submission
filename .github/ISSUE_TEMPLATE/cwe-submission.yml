@@ -41,6 +41,6 @@ body:
     attributes:
       label: Code of Conduct
       description: The Code of Conduct helps create a safe space for everyone. We require that everyone agrees to it.
-    options:
-      - label: I agree to follow this project's [Code of Conduct](link/to/coc)
-        required: true
+      options:
+        - label: I agree to follow this project's [Code of Conduct](link/to/coc)
+          required: true
