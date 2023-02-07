@@ -26,7 +26,13 @@ body:
       required: true
   - type: markdown
     attributes:
-      value: "- [ ] Mercury\n
-      - [x] Venus\n
-      - [x] Earth (Orbit/Moon)\n
-      - [x] Mars"
+      value: "- [ ] ATTT"
+  - type: markdown
+    attributes:
+      value: "- [ ] sdasdMercury"
+        - type: markdown
+    attributes:
+      value: "- [ ] Mercuddry"
+        - type: markdown
+    attributes:
+      value: "- [ ] Mercuddddddddry"
