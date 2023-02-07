@@ -26,13 +26,10 @@ body:
       required: true
   - type: markdown
     attributes:
-      value: "- [ ] ATTT"
+      value: "- [ ] Does the summary and name avoid focusing on an attack?"
   - type: markdown
     attributes:
-      value: "- [ ] sdasdMercury"
+      value: "- [ ] Does the summary and name avoid focusing the absence of a mitigation?"
   - type: markdown
     attributes:
-      value: "- [ ] AT22TT"
-  - type: markdown
-    attributes:
-      value: "- [ ] sdasd222Mercury"
+      value: "- [ ] Does the summary and name avoid focusing the technical impact?"
