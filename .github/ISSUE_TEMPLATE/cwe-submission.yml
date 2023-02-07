@@ -40,8 +40,10 @@ body:
   - type: checkboxes
     id: cwe_quality_chkboxes
     attributes:
-      label: Code of Conduct
-      description: The Code of Conduct helps create a safe space for everyone. We require that everyone agrees to it.
+      label: "Code of Conduct"
+      description: "The Code of Conduct helps create a safe space for everyone. We require that everyone agrees to it."
       options:
-        - test 1
+        - label: macOS
+        - label: Windows
+        - label: Linux
       required: true
