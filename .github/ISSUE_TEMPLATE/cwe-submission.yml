@@ -25,9 +25,12 @@ body:
     validations:
       required: true
   - type: checkboxes
-    id: checkbox_example
+    id: cwe_quality_checks
     attributes:
       label: "Agree to terms and conditions"
       description: "Please check this box if you agree to the terms and conditions"
+      options:
+        -label: ATTACKS
+         required: TRUE
     validations:
       required: true  
