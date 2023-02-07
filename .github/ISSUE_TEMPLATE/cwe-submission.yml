@@ -8,7 +8,7 @@ body:
   - type: textarea
     id: cwe_summary
     attributes:
-      label: "## Summary"
+      label: "Summary"
       description: "The summary consists of only one or two sentences that describe the weakness itself, i.e. the mistake that is made. Often, the summary will describe what the developer/designer is attempting to do.\n\n
       Critical parts of the summary include:\n
       1. the intended behavior of the code\n
