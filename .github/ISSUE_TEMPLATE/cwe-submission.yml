@@ -26,7 +26,10 @@ body:
       required: true
   - type: markdown
     attributes:
-      value: "## Verify that your submission adheres to the below guidelines. If you are unable to answer yes to all these question then this may be an indicator that the entry is not weakness-focused."
+      value: "## Verify that your submission adheres to the below guidelines."
+  - type: markdown
+    attributes:
+      value: "If you are unable to answer yes to all these question then this may be an indicator that the entry is not weakness-focused."      
   - type: markdown
     attributes:
       value: "- [ ] Does the summary and name avoid focusing on an attack?"
