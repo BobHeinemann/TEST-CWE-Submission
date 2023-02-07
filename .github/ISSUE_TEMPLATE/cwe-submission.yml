@@ -38,6 +38,7 @@ body:
     attributes:
       value: "- [ ] Does the summary and name avoid focusing the technical impact?"
   - type: checkboxes
+    id: cwe_quality_chkboxes
     attributes:
       label: Code of Conduct
       description: The Code of Conduct helps create a safe space for everyone. We require that everyone agrees to it.
