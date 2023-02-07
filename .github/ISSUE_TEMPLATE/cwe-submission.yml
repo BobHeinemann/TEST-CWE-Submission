@@ -29,6 +29,8 @@ body:
       description: "If you are unable to answer yes to all these question then this may be an indicator that the entry is not weakness-focused."
       options:
         - label: "Does the summary and name avoid focusing on an attack?"
-        required: true
         - label: Does the summary and name avoid focusing the absence of a mitigation?
         - label: Does the summary and name avoid focusing the technical impact?
+    validations:
+      required: true
+
