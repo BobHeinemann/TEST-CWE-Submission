@@ -26,4 +26,7 @@ body:
       required: true
   - type: markdown
     attributes:
-      value: "Thanks for completing our form!"
+      value: "- [ ] Mercury"
+      value: "- [x] Venus"
+      value: "- [x] Earth (Orbit/Moon)"
+      value: "- [x] Mars"
