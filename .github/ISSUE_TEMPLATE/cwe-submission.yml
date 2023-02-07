@@ -24,7 +24,7 @@ body:
       placeholder: "Proposed CWE Summary"
     validations:
       required: true
-  - type: checkbox
+  - type: checkboxes
     id: checkbox_example
     attributes:
       label: "Agree to terms and conditions"
