@@ -24,3 +24,13 @@ body:
       placeholder: "Proposed CWE Summary"
     validations:
       required: true
+  - type: section
+    text: |
+      ##Please verify that the summary and name satisfy the following conditions before submitting your proposal.
+  - type: checkbox
+    id: checkbox_example
+    attributes:
+      label: "Agree to terms and conditions"
+      description: "Please check this box if you agree to the terms and conditions"
+    validations:
+      required: true  
