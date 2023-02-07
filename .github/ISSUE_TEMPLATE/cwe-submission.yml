@@ -22,6 +22,8 @@ body:
       placeholder: "Proposed CWE Summary"
     validations:
       required: true
+  - type: checkboxes
+    id: cwe_quality_chkboxes
     attributes:
       label: "Verify that your submission adheres to the below guidelines."
       description: "If you are unable to answer yes to all these question then this may be an indicator that the entry is not weakness-focused."
