@@ -2,7 +2,7 @@
 name: CWE Submission
 about: Enter CWE Submissions here.
 title: ''
-labels: ''
+labels: 01-Received
 assignees: ''
 
 ---
