@@ -22,27 +22,10 @@ body:
       placeholder: "Proposed CWE Summary"
     validations:
       required: true
-  - type: markdown
     attributes:
-      value: "## Verify that your submission adheres to the below guidelines."
-  - type: markdown
-    attributes:
-      value: "If you are unable to answer yes to all these question then this may be an indicator that the entry is not weakness-focused."      
-  - type: markdown
-    attributes:
-      value: "- [ ] Does the summary and name avoid focusing on an attack?"
-  - type: markdown
-    attributes:
-      value: "- [ ] Does the summary and name avoid focusing the absence of a mitigation?"
-  - type: markdown
-    attributes:
-      value: "- [ ] Does the summary and name avoid focusing the technical impact?"
-  - type: checkboxes
-    id: cwe_quality_chkboxes
-    attributes:
-      label: "Code of Conduct"
-      description: "The Code of Conduct helps create a safe space for everyone. We require that everyone agrees to it."
+      label: "Verify that your submission adheres to the below guidelines."
+      description: "If you are unable to answer yes to all these question then this may be an indicator that the entry is not weakness-focused."
       options:
-        - label: macOS
-        - label: Windows
-        - label: Linux
+        - label: Does the summary and name avoid focusing on an attack?
+        - label: Does the summary and name avoid focusing the absence of a mitigation?
+        - label: Does the summary and name avoid focusing the technical impact?
