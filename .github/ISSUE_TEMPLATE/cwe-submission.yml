@@ -30,9 +30,3 @@ body:
   - type: markdown
     attributes:
       value: "- [ ] sdasdMercury"
-  - type: markdown
-    attributes:
-      value: "- [ ] Mercuddry"
-        - type: markdown
-    attributes:
-      value: "- [ ] Mercuddddddddry"
