@@ -16,9 +16,11 @@ body:
       2. the mistake (i.e. weakness)\n
       3. the affected resource (if relevant)\n
       4. the affected technology (if relevant)\n\n
+      
       Each summary part is only expressed with individual words or brief phrases; the extended description can be more\n
       comprehensive in its explanation.\n\n
       Use of CWE-specific vocabulary is preferred but not required.\n\n
+      
       placeholder: "Proposed CWE Summary"
     validations:
       required: true
