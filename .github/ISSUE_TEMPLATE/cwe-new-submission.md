@@ -1,6 +1,6 @@
 ---
 name: CWE New Submission
-about: To submit and process new CWE Submissions
+about: Proposed Title
 title: ''
 labels: ''
 assignees: ''
