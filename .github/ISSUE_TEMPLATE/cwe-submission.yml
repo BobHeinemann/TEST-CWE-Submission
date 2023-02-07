@@ -24,6 +24,6 @@ body:
       placeholder: "Proposed CWE Summary"
     validations:
       required: true
-- type: markdown
-  attributes:
-    value: "Thanks for completing our form!"
+  - type: markdown
+    attributes:
+      value: "Thanks for completing our form!"
